@@ -144,7 +144,7 @@ hold on;
 plot(py(1)+D/2*sin(th),px(1)+D/2*cos(th),'k');
 plot(py(2)+D/2*sin(th),px(2)+D/2*cos(th),'k');
 hold off;
-Title('Inverse of \chi^2 (Least-Squares Fit Function)');
+title('Inverse of \chi^2 (Least-Squares Fit Function)');
 colorbar;
 xlabel(sprintf('Figure %d.',fignum)); fignum=fignum+1;
 
