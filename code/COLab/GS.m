@@ -1,0 +1,1 @@
+function gs(y,z)% GS  Function to plot a representation of% what is seen on a screen with a linear gray scale, % as used in the Computational Optoelectronics, lab 1.   colormap(gray);  [xSc,ySc] = meshgrid(y,[-1,+1]);  zSc = [z';z'];  pcolor(xSc,ySc,zSc);  shading interp;    return;

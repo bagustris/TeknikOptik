@@ -1,0 +1,1 @@
+function ContourPlot(x,y,z)% ContourPlot Function to plot a pseudocolour contour% plot, with colours appropriate to the Optoelectronics% labs sets.  colormap(jet);  pcolor(x,y,z);  shading interp;  caxis([-0.1, +0.1]);  axis equal;  colorbar;    return;
