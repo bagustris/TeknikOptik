@@ -12,7 +12,7 @@ x = I-n/2;
 y = n/2-I;
 [X,Y] = meshgrid(x,y);
 R = 10;                     % radius
-A = (X.^2 + Y.^2 <= R^2);   % apperture
+A = (X.^2 + Y.^2 <= R^2);   % circular apperture
 M(A) = 1;
 
 figure(1)
