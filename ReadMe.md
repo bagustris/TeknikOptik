@@ -5,6 +5,7 @@ Resources kuliah Teknik Optik (TF141356), Teknik Fisika, Institut Teknologi Sepu
 - m-files compiled from many sources.
 
 - Image Processing routines (folder: imageProc) courtesy of Marck D. Shattuck,  Granular Materials Laboratory - The Benjamin Levich Institute, City College of New York.
+- Computational Optics (Inteference and Difraction simulation) courtesy of Yuliya Semenova, Dublin Inst. of Tech.
 
 
 <h3>Optical Image Processing (code/imageProc)</h3>
