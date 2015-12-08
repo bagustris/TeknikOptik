@@ -29,6 +29,8 @@
 % focus.  The functional form is shown here:
 
 %% Functional Form of Ideal Particle
+clear all; close all; clc
+
 x=-10:.1:10;  
 D=12;          % Diameter
 w=1.3;         % Width
