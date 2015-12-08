@@ -255,7 +255,7 @@ fprintf('Chi-Squared=%f\n',chi2);
 
 h=figure(2); set(h,'Position',[100 100 600 400],'Color',[1 1 1]);
 simage([di.^2 di0.^2]); caxis([0 .25]); % Show the chi-squared images
-Title(sprintf('New \\chi^2=%6.2f           Original \\chi^2=%6.2f',chi2,chi2o),'fontsize',15)
+title(sprintf('New \\chi^2=%6.2f           Original \\chi^2=%6.2f',chi2,chi2o),'fontsize',15)
 xlabel('figure 5.')
 
 %% Finding D and w
@@ -323,7 +323,7 @@ fprintf('Chi-Squared=%f\n',chi2);
 
 h=figure(2); set(h,'Position',[100 100 600 400],'Color',[1 1 1]);
 simage([di.^2 di0.^2]); caxis([0 .25]); % Show the chi-squared images
-Title(sprintf('New \\chi^2=%6.2f           Original \\chi^2=%6.2f',chi2,chi2o),'fontsize',15)
+title(sprintf('New \\chi^2=%6.2f           Original \\chi^2=%6.2f',chi2,chi2o),'fontsize',15)
 xlabel('figure 6.')
 
 %% Putting it all together
@@ -413,7 +413,7 @@ fprintf('Chi-Squared=%f\n',chi2);
 
 h=figure(2); set(h,'Position',[100 100 600 400],'Color',[1 1 1]);
 simage([di.^2 di0.^2]); caxis([0 .25]); % Show the chi-squared images
-Title(sprintf('New \\chi^2=%6.2f           Original \\chi^2=%6.2f',chi2,chi2o),'fontsize',15)
+title(sprintf('New \\chi^2=%6.2f           Original \\chi^2=%6.2f',chi2,chi2o),'fontsize',15)
 
 %% Discussion of Accuracy
 %  The positions in the example above have an accuracy of about 1/10 of a
