@@ -12,3 +12,8 @@ Resources kuliah Teknik Optik (TF141356), Teknik Fisika, Institut Teknologi Sepu
 - For Linux (Ubuntu) user, uncompress the .avi file with ffmpeg
   <pre> ffmpeg -i BN6_0_1_2_run_soft_xvid.avi -pix_fmt rgb24 -vcodec rawvideo -qscale 1 -an Video.avi </pre>
 - For Windows user you can directly run it (I guess :))
+- For Windows user, please change tilde "~" to any variable
+
+<h3> Computational Optics (code/COLab)<h3>
+- Follow the pdf instruction based on your groups
+- Upload your pdf task to share ITS
