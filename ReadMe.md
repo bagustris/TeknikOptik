@@ -14,6 +14,6 @@ Resources kuliah Teknik Optik (TF141356), Teknik Fisika, Institut Teknologi Sepu
 - For Windows user you can directly run it (I guess :))
 - For Windows user, please change tilde "~" to any variable
 
-<h3> Computational Optics (code/COLab)<h3>
+<h3> Computational Optics (code/COLab)</h3>
 - Follow the pdf instruction based on your groups
 - Upload your pdf task to share ITS
